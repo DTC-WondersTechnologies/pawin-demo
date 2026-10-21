@@ -224,11 +224,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- [Dino Technology Center - DTC](https://dtc.co.tz)
+- [DTC Wonders Technology- DTC](https://dtcwonders.online)
 - All the amazing innovators across Africa
 
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://dtc.co.tz">Dino Technology Center</a>
+  Made with ❤️ by <a href="https://www.dtcwonders.online">DTC Wonders Technology</a>
 </div>
